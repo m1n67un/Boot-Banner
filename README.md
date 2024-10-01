@@ -1,5 +1,8 @@
 # Boot-Banner
 
+## Libraries registered in Cargo(Rust)
+https://crates.io/crates/Boot-Banner
+
 Boot-Banner is a Rust library that provides a simple way to display a banner when your application starts. It uses a procedural macro to inject banner-displaying code into your main function.
 
 ## Features
