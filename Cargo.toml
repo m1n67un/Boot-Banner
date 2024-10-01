@@ -1,6 +1,6 @@
 [package]
 name = "Boot-Banner"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["m1n67un <rkdalsrbs0@naver.com>"]
 description = "An elegant banner library that enhances project launches with eye-catching terminal displays and helpful assistance."
 license = "MIT OR Apache-2.0"
